@@ -58,7 +58,7 @@ volumes:
   certs:
   logs:
   fallbackcerts:
+  
 networks:
   tooljet_network:
-    # Use a custom driver
-    driver: custom-driver-1
+    driver: local
