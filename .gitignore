@@ -28,7 +28,6 @@
 .DS_Store
 /frontend/.firebaserc
 /frontend/.firebase
-/.env
 /.env.test
 /docs/.firebase
 /docs/.firebaserc
